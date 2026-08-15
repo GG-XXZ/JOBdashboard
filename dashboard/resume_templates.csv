@@ -1,0 +1,2 @@
+template_id,template_name,source_file_path,output_format,is_default,notes
+"current-docx","当前默认模板","请填写可编辑 DOCX 的绝对路径","DOCX + PDF","Yes","新建岗位定制任务时默认选择。"

@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "provider": "qq",
+  "email": "your-email@example.com",
+  "auth_code": "IMAP_AUTH_CODE_OR_APP_PASSWORD",
+  "host": "imap.qq.com",
+  "port": 993,
+  "secure": true,
+  "mailbox": "INBOX",
+  "lookback_days": 30,
+  "aliases": {
+    "示例公司有限公司": ["示例公司", "Example Corp"]
+  }
+}

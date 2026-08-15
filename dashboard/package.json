@@ -1,0 +1,18 @@
+{
+  "name": "jobdashboard",
+  "version": "1.0.0",
+  "description": "Local JOBdashboard with optional IMAP recruitment-email monitoring",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test email-monitor.test.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "imapflow": "^1.7.0",
+    "mailparser": "^3.9.15"
+  }
+}
