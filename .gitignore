@@ -1,0 +1,15 @@
+dashboard/node_modules/
+dashboard/email_config.local.json
+dashboard/email_state.local.json
+candidate_profile.json
+answer_bank.md
+experience_bank.md
+resume_routing.md
+application_rules.md
+application-previews.md
+my-materials/
+tailored-resumes/
+application-evidence/
+.tools/
+*.lnk
+*.zip
